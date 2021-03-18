@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Barophobia
 - 👀 I’m interested in Scripting and Automation 
 - 🌱 I’m currently learning Ruby (for Chef)
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything interesting!
 - 📫 How to reach me - On here or @barophobiaN on Twitter
 
 <!---
