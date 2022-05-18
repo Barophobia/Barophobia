@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Barophobia
 - 🌐 For tech writeups, docs and tutorials - https://www.barophobia.co.uk - This is a constant project of mine to try and document as much as possible.
 - 📫 How to reach me - On here or @barophobiaN on Twitter
 <!---
